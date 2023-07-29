@@ -26,7 +26,7 @@ We are going to investigate the Phishing email and carry out of the following st
 1. Phising Url: [http://russellvillea.buzz/1/2/3] and sender : [support@vansplunteren.net]
 
 <a>
-<img src= "/images/sc_1/png" width=1200>
+<img src= "/images/sc_1.png" width=1200>
 </a>
 
 2. Phising Url: [http://waterscrest.buzz] and sender : [administration@butysportowepolska.pl]
