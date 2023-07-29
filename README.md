@@ -13,7 +13,7 @@ We are going to investigate the Phishing email and carry out of the following st
 
 # I have checked if URLs are malicious
 1. Zulu ZScaler[https://zulu.zscaler.com]
-2. Virua Total [https://www.virustotal.com]
+2. Virus Total [https://www.virustotal.com]
 
 # I have checked if Attachments are malicious
 1. MD5Hash[https://md5file.com/calculator]
@@ -29,8 +29,24 @@ We are going to investigate the Phishing email and carry out of the following st
 <img src= "/images/sc_1.png" width=1200>
 </a>
 
+<a>
+<img src= "/images/sc_2.png" width=1200>
+</a>
+
+
+<a>
+<img src= "/images/sc_3.png" width=1200>
+</a>
+
 2. Phising Url: [http://waterscrest.buzz] and sender : [administration@butysportowepolska.pl]
 
+<a>
+<img src= "/images/sc_4.png" width=1200>
+</a>
 
+
+<a>
+<img src= "/images/sc_5.png" width=1200>
+</a>
 
 
